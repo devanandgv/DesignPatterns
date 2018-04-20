@@ -7,5 +7,5 @@
 	
 #### Types of Adapter
 	
-	* Class Adapter - Uses Inheritance
-	* Object Adapter - Uses Composition
+	1. Class Adapter - Uses Inheritance
+	2. Object Adapter - Uses Composition
