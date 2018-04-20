@@ -9,3 +9,4 @@
 	
 	* Class Adapter - Uses Inheritance
 	* Object Adapter - Uses Composition
+	
